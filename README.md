@@ -1,7 +1,7 @@
 ### mallikGPT
 Hello Everyone!
 
-This a project created by me inorder to hone my MERN stack sills
+This a project created by me inorder to hone my MERN stack skills
 The tools and languages i used for this project include - express.js, node.js, React and OPEN AI API keys
 Take a look around the project and the code i have written-
 Inorder to run this in your local repository, kindly include the following dependencies-
